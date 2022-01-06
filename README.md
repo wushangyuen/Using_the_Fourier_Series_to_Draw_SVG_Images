@@ -1,4 +1,4 @@
-# Drawing with _Discrete Fourier transform_
+# Using _the Fourier Series_ to Draw SVG Images
 
 ### some works
 
